@@ -1,0 +1,11 @@
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\bin\Release\netcoreapp2.1\ISIC_Concole_Downloader.deps.json
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\bin\Release\netcoreapp2.1\ISIC_Concole_Downloader.runtimeconfig.json
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\bin\Release\netcoreapp2.1\ISIC_Concole_Downloader.runtimeconfig.dev.json
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\bin\Release\netcoreapp2.1\ISIC_Concole_Downloader.dll
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\bin\Release\netcoreapp2.1\ISIC_Concole_Downloader.pdb
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Release\netcoreapp2.1\ISIC_Concole_Downloader.csprojAssemblyReference.cache
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Release\netcoreapp2.1\ISIC_Concole_Downloader.csproj.CoreCompileInputs.cache
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Release\netcoreapp2.1\ISIC_Concole_Downloader.AssemblyInfoInputs.cache
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Release\netcoreapp2.1\ISIC_Concole_Downloader.AssemblyInfo.cs
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Release\netcoreapp2.1\ISIC_Concole_Downloader.dll
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Release\netcoreapp2.1\ISIC_Concole_Downloader.pdb

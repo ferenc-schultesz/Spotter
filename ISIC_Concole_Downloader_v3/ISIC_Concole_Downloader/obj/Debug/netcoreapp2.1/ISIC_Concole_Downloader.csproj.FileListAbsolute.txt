@@ -1,0 +1,44 @@
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.deps.json
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.runtimeconfig.json
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.runtimeconfig.dev.json
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.dll
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.pdb
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.csproj.CoreCompileInputs.cache
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.AssemblyInfoInputs.cache
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.AssemblyInfo.cs
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.dll
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.pdb
+c:/users/discipline/documents/visual studio 2017/Projects/ISIC_Concole_Downloader/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.csprojAssemblyReference.cache
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.deps.json
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.runtimeconfig.json
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.runtimeconfig.dev.json
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.dll
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.pdb
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.csprojAssemblyReference.cache
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.csproj.CoreCompileInputs.cache
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.AssemblyInfoInputs.cache
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.AssemblyInfo.cs
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.dll
+d:/University/IN3007_INM450 Individual Project/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.pdb
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.deps.json
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.runtimeconfig.json
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.runtimeconfig.dev.json
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.dll
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/bin/Debug/netcoreapp2.1/ISIC_Concole_Downloader.pdb
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.csprojResolveAssemblyReference.cache
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.csproj.CoreCompileInputs.cache
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.AssemblyInfoInputs.cache
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.AssemblyInfo.cs
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.dll
+/Users/fschultesz/repos/UniversityDemo/ISIC_Concole_Downloader_v3/ISIC_Concole_Downloader/obj/Debug/netcoreapp2.1/ISIC_Concole_Downloader.pdb
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\bin\Debug\netcoreapp2.1\ISIC_Concole_Downloader.deps.json
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\bin\Debug\netcoreapp2.1\ISIC_Concole_Downloader.runtimeconfig.json
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\bin\Debug\netcoreapp2.1\ISIC_Concole_Downloader.runtimeconfig.dev.json
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\bin\Debug\netcoreapp2.1\ISIC_Concole_Downloader.dll
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\bin\Debug\netcoreapp2.1\ISIC_Concole_Downloader.pdb
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Debug\netcoreapp2.1\ISIC_Concole_Downloader.csproj.CoreCompileInputs.cache
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Debug\netcoreapp2.1\ISIC_Concole_Downloader.AssemblyInfoInputs.cache
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Debug\netcoreapp2.1\ISIC_Concole_Downloader.AssemblyInfo.cs
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Debug\netcoreapp2.1\ISIC_Concole_Downloader.dll
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Debug\netcoreapp2.1\ISIC_Concole_Downloader.pdb
+d:\UniversityDemo\ISIC_Concole_Downloader_v3\ISIC_Concole_Downloader\obj\Debug\netcoreapp2.1\ISIC_Concole_Downloader.csprojAssemblyReference.cache
